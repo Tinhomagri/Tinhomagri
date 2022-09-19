@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HeaderFooter</title>
+    <link href="./estilo.css" rel="stylesheet">
+    <style>@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@00&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+</style>
+
+</head>
+<body>
+    <header id="Menu">
+        <div class="logo">
+            <img class="logo-trampro" src="./imgs/Trampro-removebg-preview.png " alt="Logo TramPRO">
+        </div>
+        
+        <nav class="nav-bar">
+        <ul class="nav-list">
+            <li class="nav-menu Inicio"><a class="nav-options" href="Tramproheaderfooter.html">Inicio</a></li>
+            <li class="nav-menu Carrinho"><a class="nav-options" href="figma.html">Carrinho</a></li>
+            <li class="nav-menu Servicos"><a class="nav-options" href="">Serviços</a></li>
+            <li class="nav-menu Entre"><a class="nav-options" href="">Entre</a></li>
+            <li class="nav-menu Cadastro"><a class="nav-cadastro" href="">Cadastro</a></li>
+        </ul>
+        </nav>
+
+    </header>
+    <main>
+            
+        <div class="checkout-painel">
+            <div class="painel-body">
+              <h2 class="title">Você está Aqui!</h2>
+           
+              <div class="metodopagamento">
+                <label for="card" class="method card">
+                  <div class="card-logos">
+                    <img src="https://designmodo.com/demo/checkout-panel/img/visa_logo.png"/>
+                    <img src="https://designmodo.com/demo/checkout-panel/img/mastercard_logo.png"/>
+                  </div>
+           
+                  <div class="radio-input">
+                    <input id="card" type="radio" name="payment">
+                   Pague R$200.00 com Cartão de Crédito
+                  </div>
+                </label>
+           
+                <label for="paypal" class="metodopaypal">
+                  <img src="https://designmodo.com/demo/checkout-panel/img/paypal_logo.png"/>
+                  <div class="radio-input">
+                    <input id="paypal" type="radio" name="pagamento1">
+                    Pague R$200.00 com PayPal
+                  </div>
+                </label>
+              </div>
+           
+              <div class="input-nome">
+                <div class="coluna-1">
+                  <label for="cartaolholder">Nome</label>
+                  <input type="text" id="cartalholder" />
+           
+                  <div class="data-inputs">
+                    <div>
+                      <label for="date">Data de Válidade</label>
+                      <input type="text" id="date"/>
+                    </div>
+           
+                    <div>
+                      <label for="verification">CVV / CVC *</label>
+                      <input type="password" id="verification"/>
+                    </div>
+                  </div>
+           
+                </div>
+                <div class="coluna-2">
+                  <label for="cardnumber">Número do Cartão</label>
+                  <input type="password" id="cardnumber"/>
+           
+                  <span class="info">* CVV  CVC são os três números de segurança que fica atrás do cartão.</span>
+                </div>
+              </div>
+            </div>
+           
+            <div class="painel-footer">
+              <button class="btn back-btn">Voltar</button>
+              <button class="btn next-btn">Continuar</button>
+            </div>
+          </div>
+          
+    </main>
+    <footer class="Footer">
+        <div><divi class="rodape"><a class="rodape-bio" href="">Sobre nós</a>
+            <br>
+        <a class="rodape-bio" href="">Contate-nos</a></divi>
+        
+        <ul class="redes-lista">
+            <li class="pagina-link Facebook"><a class="redes-link" href="https://www.facebook.com/"><img class="redes-logo" src="imgs/facebook.png"></li>
+            <li class="pagina-link Instagram"><a class="redes-link" href="https://www.instagram.com/"><img class="redes-logo" src="imgs/instagram.png"></li>
+            <li class="pagina-link Twitter"><a class="redes-link" href="https://twitter.com/"><img class="redes-logo" src="imgs/twitter.png"></li>
+            <li class="pagina-link Likedin"><a class="redes-link" href="https://www.linkedin.com/"><img class="redes-logo" src="imgs/linkedin.png"></li>
+            
+        </ul></div>
+          
+    </footer>
+</body>
+</html>
