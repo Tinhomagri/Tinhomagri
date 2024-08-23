@@ -1,5 +1,3 @@
-
-
 ### Olá eu sou o Wellington Magri 🏅
 
 Estou no 4° Semestre em Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba - (UNISO).
@@ -11,7 +9,7 @@ Estou no 4° Semestre em Análise e Desenvolvimento de Sistemas na Universidade 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinhomagri&size_weight=0.5&count_weight=0.5)
 
-## Minhas linguagens de Programação
+## Minhas linguagens de Programação:
 
 <div style="display: inline-block">
     <br/>   
@@ -28,7 +26,7 @@ Estou no 4° Semestre em Análise e Desenvolvimento de Sistemas na Universidade 
 
 
 
-## Design 🖊️
+## 🖊️ Design:
 
 <div style="display: inline-block">
     <br/>
@@ -36,7 +34,7 @@ Estou no 4° Semestre em Análise e Desenvolvimento de Sistemas na Universidade 
         <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
-## Office 💻
+## 💻 Office:
 
 <div style="display: inline-block">
     <br/>
@@ -46,9 +44,11 @@ Estou no 4° Semestre em Análise e Desenvolvimento de Sistemas na Universidade 
 
 <br/>
 
-Sou apaixonado por tecnologia e programação, estou em busca de oportunidades que me permitam explorar meu potencial e contribuir para projetos desafiadores na área de TI.
+## Sobre mim:
+- Sou apaixonado por tecnologia e programação, estou em busca de oportunidades que me permitam explorar meu potencial e contribuir para projetos desafiadores na área de TI.
+<br/>
 
-## Skills:
+## 👨‍🏫 Skills:
 - Pontual
 - Comprometimento
 - Resiliência profissional
@@ -57,4 +57,7 @@ Sou apaixonado por tecnologia e programação, estou em busca de oportunidades q
 - Desempenho
 - Proatividade
 - Flexibilidade e capacidade de se adaptar a mudanças
+
+<br/>
+
 
