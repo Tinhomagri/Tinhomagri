@@ -6,7 +6,7 @@ Estou no 5° Semestre em Análise e Desenvolvimento de Sistemas na Universidade 
 [![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinhomagri-dev/)
 
 ![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinhomagri&show_icons=true&theme=transparent) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinhomagri&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinhomagri&layout=donut)
 
 ## Minhas linguagens de Programação:
 
