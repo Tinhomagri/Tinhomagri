@@ -5,6 +5,10 @@ Estou no 5° Semestre em Análise e Desenvolvimento de Sistemas na Universidade 
 #### Meu Linkedin 👇
 [![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinhomagri-dev/)
 
+
+![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
   
 [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tinhomagri&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tinhomagri&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
