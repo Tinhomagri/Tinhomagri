@@ -17,7 +17,7 @@ Estou no 5° Semestre em Análise e Desenvolvimento de Sistemas na Universidade 
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,bootstrap,tailwind,javascript,typescript,python,react,angular,vue,nodejs,php,mysql,mongodb,flutter,dart,vite,figma,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,scss,bootstrap,tailwind,javascript,typescript,python,django,react,angular,vue,nodejs,php,laravel,mysql,mongodb,flutter,dart,vue,vite,figma,windows" />
 </a>
   <br />
 
