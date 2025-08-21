@@ -16,7 +16,7 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinhomagri-dev/)  
 
-✉️ wellington.seuemail@gmail.com  
+✉️ wellingtonfelipemagri44@gmail.com  
 
 ---
 
