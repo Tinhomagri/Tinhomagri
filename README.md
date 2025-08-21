@@ -28,27 +28,27 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 
 ## 📊 Estatísticas
 ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)  
-
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tinhomagri&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tinhomagri&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-
-![Wellington GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tinhomagri&show_icons=true&theme=dracula)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinhomagri&layout=compact&theme=dracula)  
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tinhomagri&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinhomagri&layout=compact&theme=dracula) 
+![Wellington GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tinhomagri&show_icons=true&theme=dracula)
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tinhomagri&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ 
 
 ---
 
 ## 🛠️ Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,scss,bootstrap,tailwind,javascript,typescript,python,django,react,angular,vue,nodejs,php,laravel,mysql,docker,mongodb,flutter,dart,vite,figma,windows" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,scss,bootstrap,tailwind,javascript,typescript,python,django,react,angular,vue,nodejs,php,laravel,mysql,docker,mongodb,flutter,dart,vite,figma,windows"  />
 </div>
 
 ---
 
+
 ## 🏆 Conquistas
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tinhomagri&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=tinhomagri&theme=dracula&row=1&column=6" width="900"/>
+
+
 </div>
 
 ---
