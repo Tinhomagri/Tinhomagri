@@ -9,7 +9,6 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 - 🎓 Estudante de **ADS na UNISO**  
 - 🚀 Interesse em **Desenvolvimento Fullstack**  
 - 🌱 Atualmente aprendendo **Django + Docker**  
-- 🎯 Buscando oportunidades de emprego na área de tecnologia  
 
 ---
 
@@ -53,7 +52,6 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 
 ---
 
-## 🐍 Minhas Contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
