@@ -28,7 +28,7 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 ## 📊 Estatísticas
 ![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)  
 ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tinhomagri&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinhomagri&layout=compact&theme=dracula) 
+
 
  
 
