@@ -36,7 +36,7 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 
 ## 🛠️ Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,scss,bootstrap,tailwind,javascript,typescript,python,django,react,angular,vue,nodejs,php,laravel,mysql,docker,mongodb,flutter,dart,vite,figma,windows"  />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,scss,bootstrap,tailwind,javascript,typescript,python,django,react,postgres,angular,vue,nodejs,php,laravel,mysql,docker,mongodb,flutter,dart,vite,figma,windows"  />
 </div>
 
 ---
