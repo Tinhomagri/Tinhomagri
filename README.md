@@ -8,7 +8,7 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 ## 👨‍💻 Sobre mim
 - 🎓 Estudante de **ADS na UNISO**  
 - 🚀 Interesse em **Desenvolvimento Fullstack**  
-- 🌱 Atualmente aprendendo **Django + Docker**  
+- 🌱 Atualmente aprendendo **ODOO + XML**  
 
 ---
 
