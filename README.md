@@ -20,8 +20,14 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 ---
 
 ## 🚀 Projetos em Destaque
-- 🐾 [**IntegraPet**](https://github.com/Integrapet) → Plataforma de gestão de pets (**PHP + Html + Scss + Javascript + MySQL**)    
-- ✅ [**Taskly**](https://github.com/Taskly) → Gerenciador de tarefas inteligente (**Python**)  
+- [**Chatbot**](https://github.com/Tinhomagri/chatbot) → Plataforma de gestão de mensagens automáticas (**Python + twilio**)    
+- [**Taskly**](https://github.com/Tinhomagri/Taskly) → Gerenciador de tarefas inteligente (**Python**)
+
+## Atualmente:
+ - **Atuando como Desenvolvedor Full Stack**
+ - *Solucionando problemas de empresas.*
+ - *Entregando Qualidade e Eficiência.*
+ - *Aprendizado contínuo.*
 
 ---
 
