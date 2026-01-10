@@ -1,12 +1,11 @@
 ### Olá, eu sou o Wellington Magri 🏅
 
-Estou no **5° Semestre em Análise e Desenvolvimento de Sistemas** na Universidade de Sorocaba - (UNISO).  
 Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escaláveis, experiência do usuário** e boas práticas de código.  
 
 ---
 
 ## 👨‍💻 Sobre mim
-- 🎓 Estudante de **ADS na UNISO**  
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
 - 🚀 Atuando como **Desenvolvedor Júnior FullStack - T4EGROUP**  
 
 ---
