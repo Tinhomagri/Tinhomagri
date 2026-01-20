@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=051e7a&height=120&section=header" alt="header"/> 
 ### Olá, eu sou o Wellington Magri 🏅
 
 Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escaláveis, experiência do usuário** e boas práticas de código.  
@@ -63,5 +64,6 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 </picture>
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=051e7a&height=120&section=footer" alt="footer"/>
 
 
