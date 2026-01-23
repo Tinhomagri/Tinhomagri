@@ -47,12 +47,27 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
 
 ---
 
-
-## 🏆 Conquistas
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=tinhomagri&theme=dracula&row=1&column=6" width="900"/>
-
+  <table align="center">
+  <tr>
+    <td valign="top">
+      <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=joaom543agri&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=joaom543agri&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false">
+  </a>
+</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https://worldtimeapi.org/api/ip&query=datetime&label=Last%20Updated&color=informational&style=flat-square&logo=clockify" alt="Last Updated"/>
+        </p>
+    </td>
+    <td valign="top">
+     <p align="center">
+       <img src="https://i.pinimg.com/originals/7b/7a/49/7b7a49c20326e3cbfdccb534ca0366f1.gif"/>
+        </p>
+     <p aling="center">Ouçando Musga</p>
+    </td>
+</table>
 
 </div>
 
