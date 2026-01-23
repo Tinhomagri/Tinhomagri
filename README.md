@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=051e7a&height=120&section=header" alt="header"/> 
 
-### Olá, eu sou o Wellington Magri 🏅
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=6000&pause=1000&color=FFFFFF&background=255BFF00&vCenter=true&width=435&height=60&lines=Hello%2C+i+'am+Wellington+Magri+%F0%9F%8F%85;Full+stack+Developer" alt="Typing SVG" /></a>
 
 Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escaláveis, experiência do usuário** e boas práticas de código.  
 
