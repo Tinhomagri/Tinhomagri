@@ -54,7 +54,7 @@ Apaixonado por desenvolvimento **Web e Mobile**, com foco em **soluções escal�
     <td valign="top">
       <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=joaom543agri&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=joaom543agri&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=joaom543agri&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=false&bar_color=0011ff">
   </a>
 </p>
         <p align="center">
